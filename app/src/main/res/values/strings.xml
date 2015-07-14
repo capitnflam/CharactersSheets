@@ -3,4 +3,8 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string-array name="games">
+        <item>D&amp;D 3.5</item>
+        <item>Shadowrun</item>
+    </string-array>
 </resources>
